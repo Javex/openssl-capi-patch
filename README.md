@@ -1,5 +1,7 @@
-OpenSSL capi engine patch
-=========================
+OpenSSL capi engine patch (deprecated)
+======================================
+
+**Note**: This is included in OpenSSL since 1.0.1d (I think).
 
 This patch is for OpenSSL's capi engine. It adds support for private keys
 inside a machine keystore (`MACHINE_KEYSET`). It has been tested with 
